@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="home_btn_string">Home</string>
+    <string name="explore_btn_string">Explore</string>
+    <string name="people_btn_string">People</string>
+    <string name="not_implemented">(Not Implemented)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="screen_1">Option 1</string>
+    <string name="screen_2">Screen 2</string>
+    <string name="screen_3">Screen 3</string>
+    <string name="nav_header_title">Nav Header Title</string>
+    <string name="nav_header_subtitle">Nav Header Subtitle</string>
+    <string name="image_description">Image Description</string>
+    <string name="media_info_placeholder">Media Info</string>
+    <string name="media_description_placeholder">Media Description</string>
+    <string name="username_hint_text">Username</string>
+    <string name="password_hint_text">Password</string>
+    <string name="login_btn_text">Login</string>
+    <string name="facebook_login_btn_text">Login with Facebook</string>
+    <string name="forgot_pwd_btn_text">Forgot Password?</string>
+</resources>

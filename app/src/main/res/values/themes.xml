@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Base application theme. -->
+    <style name="Theme.NavBottomBarCombiDemo" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <!--item name="colorPrimary">@color/purple_500</item-->
+        <item name="colorPrimary">@color/primary_grey</item>
+        <!--item name="colorPrimaryVariant">@color/purple_700</item-->
+        <item name="colorPrimaryVariant">@color/primary_grey</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@android:color/darker_gray</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:textColorSecondary">@color/white</item>
+        <item name="android:textColorPrimary">@color/primary_grey</item>
+        <!-- The color of the search hint text -->
+        <item name="android:textColorHint">@android:color/darker_gray</item>
+        <!-- The color of the input text to the SearchView -->
+        <item name="android:editTextColor">@color/white</item>
+    </style>
+</resources>

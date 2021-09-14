@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_bottom_home"
+        android:title="@string/home_btn_string" />
+
+    <item
+        android:id="@+id/navigation_explore"
+        android:icon="@drawable/explore_icon"
+        android:title="@string/explore_btn_string" />
+
+    <item
+        android:id="@+id/navigation_people"
+        android:icon="@drawable/people_icon_squircle"
+        android:title="@string/people_btn_string" />
+</menu>
